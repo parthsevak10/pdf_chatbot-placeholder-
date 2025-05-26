@@ -29,7 +29,7 @@ The file will be downloaded.
 
 When we open the file we can see that only the page in reference has been downloaded. 
 
-![Screenshot 2025-05-26 173321](https://github.com/user-attachments/assets/a285fabe-3d09-4884-bdff-ecfbca5817d7)
+
 
 
 ![Screenshot 2025-05-26 173405](https://github.com/user-attachments/assets/8deee377-e9b4-4128-9c01-aadf4babef10)
